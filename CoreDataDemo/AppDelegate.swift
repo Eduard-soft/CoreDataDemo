@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  CoreDataDemo
 //
-//  Created by Alexey Efimov on 06.12.2021.
 //
 
 import UIKit
